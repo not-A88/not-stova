@@ -12,4 +12,3 @@
 - [🤖🧠] **Machine learning** *(Typescript & Tensorflow)*
 - [💾📜] **SurrealDB** *(Rust SQL based database)*
 - [📈💵] **TradingView Trading**
-- [🔄🛠️] **Reverse engineering** *(C, x86 ASM, & Rust based)*
